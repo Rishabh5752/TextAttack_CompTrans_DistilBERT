@@ -1,1 +1,1 @@
-# TextAttack_CompTrans_DistilledBERT
+# TextAttack_CompTrans_DistilBERT
